@@ -6,3 +6,4 @@ greeting = "%s, would you like to learn some Python today?"
 
 for name in names:
     print(greeting % name.title())
+
