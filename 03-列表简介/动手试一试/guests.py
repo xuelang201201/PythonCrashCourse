@@ -62,4 +62,3 @@ while len(names) > 0:
     del names[0]
 
 print(names)
-
