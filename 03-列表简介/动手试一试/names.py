@@ -8,3 +8,6 @@ print(names[1])
 print(names[2])
 print(names[3])
 print(names[4])
+
+# for name in names:
+#     print(name.title())
