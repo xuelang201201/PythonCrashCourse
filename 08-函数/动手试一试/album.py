@@ -22,3 +22,6 @@ print(album)
 
 album = make_album('lady gaga', 'the fame', 13)
 print(album)
+
+album = make_album('lay zhang', 'namanana', 22)
+print(album)
