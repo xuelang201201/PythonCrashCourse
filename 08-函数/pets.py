@@ -5,3 +5,8 @@ def describe_pet(animal_type, pet_name):
 
 
 describe_pet('hamster', 'harry')
+# 调用函数多次
+describe_pet('dog', 'willie')
+
+# 位置实参的顺序很重要
+describe_pet('harry', 'hamster')
