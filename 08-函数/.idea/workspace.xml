@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3239653-07fb-4337-b3a9-250b602e0930" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cKg36OajKHRUCn63NonuakmPyp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/动手试一试" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/动手试一试" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.print_models">
+    <configuration name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="08-函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动手试一试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动手试一试/cars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="making_pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="08-函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/making_pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="08-函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动手试一试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动手试一试/print_models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandwiches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="08-函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动手试一试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动手试一试/sandwiches.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_profile (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="08-函数" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动手试一试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动手试一试/user_profile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.print_models" />
+        <item itemvalue="Python.making_pizza" />
+        <item itemvalue="Python.cars" />
+        <item itemvalue="Python.user_profile (1)" />
+        <item itemvalue="Python.sandwiches" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3239653-07fb-4337-b3a9-250b602e0930" name="Default Changelist" comment="" />
+      <created>1590282496576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590282496576</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1590282567280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590282567280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="向函数传递信息">
+      <created>1590284497050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590284497050</updated>
+    </task>
+    <task id="LOCAL-00003" summary="动手试一试">
+      <created>1590284543425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590284543425</updated>
+    </task>
+    <task id="LOCAL-00004" summary="8-1 消息">
+      <created>1590284799599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590284799599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="8-2 喜欢的图书">
+      <created>1590285072942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590285072942</updated>
+    </task>
+    <task id="LOCAL-00006" summary="位置实参">
+      <created>1590285255046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590285255046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="位置实参">
+      <created>1590285357300</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590285357300</updated>
+    </task>
+    <task id="LOCAL-00008" summary="传递实参">
+      <created>1590285747556</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590285747556</updated>
+    </task>
+    <task id="LOCAL-00009" summary="8-3 T恤">
+      <created>1590286198143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286198143</updated>
+    </task>
+    <task id="LOCAL-00010" summary="8-3 大号T恤">
+      <created>1590286531894</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286531894</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8-4 大号T恤">
+      <created>1590286547113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286547113</updated>
+    </task>
+    <task id="LOCAL-00012" summary="8-4 大号T恤">
+      <created>1590286552450</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286552450</updated>
+    </task>
+    <task id="LOCAL-00013" summary="8-5 城市">
+      <created>1590286946218</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286946218</updated>
+    </task>
+    <task id="LOCAL-00014" summary="返回值">
+      <created>1590287216372</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590287216372</updated>
+    </task>
+    <task id="LOCAL-00015" summary="返回字典">
+      <created>1590287416203</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590287416203</updated>
+    </task>
+    <task id="LOCAL-00016" summary="结合使用函数和while循环">
+      <created>1590287681744</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590287681744</updated>
+    </task>
+    <task id="LOCAL-00017" summary="8-6 城市名">
+      <created>1590288148052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590288148052</updated>
+    </task>
+    <task id="LOCAL-00018" summary="8-7 专辑">
+      <created>1590288999474</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590288999474</updated>
+    </task>
+    <task id="LOCAL-00019" summary="8-7 专辑">
+      <created>1590289179796</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590289179796</updated>
+    </task>
+    <task id="LOCAL-00020" summary="8-8 用户的专辑">
+      <created>1590289576415</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590289576415</updated>
+    </task>
+    <task id="LOCAL-00021" summary="传递参数">
+      <created>1590289744946</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590289744946</updated>
+    </task>
+    <task id="LOCAL-00022" summary="在函数中修改列表">
+      <created>1590290418790</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1590290418790</updated>
+    </task>
+    <task id="LOCAL-00023" summary="8-9 魔术师">
+      <created>1590290623051</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590290623051</updated>
+    </task>
+    <task id="LOCAL-00024" summary="8-10 了不起的魔术师">
+      <created>1590291370203</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590291370203</updated>
+    </task>
+    <task id="LOCAL-00025" summary="8-11 不变的魔术师">
+      <created>1590291859226</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1590291859226</updated>
+    </task>
+    <task id="LOCAL-00026" summary="结合使用位置实参和任意数量实参">
+      <created>1590292229100</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1590292229100</updated>
+    </task>
+    <task id="LOCAL-00027" summary="使用任意数量的关键字实参">
+      <created>1590292491406</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590292491406</updated>
+    </task>
+    <task id="LOCAL-00028" summary="8-12 三明治">
+      <created>1590292870793</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1590292870793</updated>
+    </task>
+    <task id="LOCAL-00029" summary="8-13 用户简介">
+      <created>1590293226221</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1590293226221</updated>
+    </task>
+    <task id="LOCAL-00030" summary="8-14 汽车">
+      <created>1590293733010</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1590293733010</updated>
+    </task>
+    <task id="LOCAL-00031" summary="导入整个模块">
+      <created>1590293939355</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1590293939355</updated>
+    </task>
+    <task id="LOCAL-00032" summary="将函数存储在模块中">
+      <created>1590294246088</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1590294246088</updated>
+    </task>
+    <task id="LOCAL-00033" summary="8-15 打印模型">
+      <created>1590294553569</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1590294553569</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="位置实参" />
+    <MESSAGE value="传递实参" />
+    <MESSAGE value="8-3 T恤" />
+    <MESSAGE value="8-3 大号T恤" />
+    <MESSAGE value="8-4 大号T恤" />
+    <MESSAGE value="8-5 城市" />
+    <MESSAGE value="返回值" />
+    <MESSAGE value="返回字典" />
+    <MESSAGE value="结合使用函数和while循环" />
+    <MESSAGE value="8-6 城市名" />
+    <MESSAGE value="8-7 专辑" />
+    <MESSAGE value="8-8 用户的专辑" />
+    <MESSAGE value="传递参数" />
+    <MESSAGE value="在函数中修改列表" />
+    <MESSAGE value="8-9 魔术师" />
+    <MESSAGE value="8-10 了不起的魔术师" />
+    <MESSAGE value="8-11 不变的魔术师" />
+    <MESSAGE value="结合使用位置实参和任意数量实参" />
+    <MESSAGE value="使用任意数量的关键字实参" />
+    <MESSAGE value="8-12 三明治" />
+    <MESSAGE value="8-13 用户简介" />
+    <MESSAGE value="8-14 汽车" />
+    <MESSAGE value="导入整个模块" />
+    <MESSAGE value="将函数存储在模块中" />
+    <MESSAGE value="8-15 打印模型" />
+    <option name="LAST_COMMIT_MESSAGE" value="8-15 打印模型" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="27" width="1260" height="1053" key="CommitChangelistDialog2" timestamp="1590294551925">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="325" y="27" width="1260" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590294551925" />
+    <state x="690" y="254" width="530" height="605" key="FileChooserDialogImpl" timestamp="1590283174858">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="690" y="254" width="530" height="605" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590283174858" />
+    <state width="1889" height="321" key="GridCell.Tab.0.bottom" timestamp="1590294632314">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632314" />
+    <state width="1889" height="321" key="GridCell.Tab.0.center" timestamp="1590294632313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632313" />
+    <state width="1889" height="321" key="GridCell.Tab.0.left" timestamp="1590294632313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632313" />
+    <state width="1889" height="321" key="GridCell.Tab.0.right" timestamp="1590294632314">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632314" />
+    <state width="1889" height="321" key="GridCell.Tab.1.bottom" timestamp="1590294632317">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632317" />
+    <state width="1889" height="321" key="GridCell.Tab.1.center" timestamp="1590294632315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632315" />
+    <state width="1889" height="321" key="GridCell.Tab.1.left" timestamp="1590294632315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632315" />
+    <state width="1889" height="321" key="GridCell.Tab.1.right" timestamp="1590294632316">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1889" height="321" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590294632316" />
+    <state x="689" y="447" width="542" height="220" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590292466270">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="689" y="447" width="542" height="220" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1590292466270" />
+  </component>
+</project>
