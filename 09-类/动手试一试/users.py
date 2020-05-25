@@ -25,10 +25,11 @@ class User:
         print("Welcome come back, %s!" % self.username)
 
 
-eric = User('eric', 'matthes', 'e_matthes', 'e_matthes@example.com', 'alaska')
-eric.describe_user()
-eric.greet_user()
+if __name__ == '__main__':
+    eric = User('eric', 'matthes', 'e_matthes', 'e_matthes@example.com', 'alaska')
+    eric.describe_user()
+    eric.greet_user()
 
-charlie = User('charlie', 'will', 'xuelang201201', 'xuelang201201@gmail.com', 'tokyo')
-charlie.describe_user()
-charlie.greet_user()
+    charlie = User('charlie', 'will', 'xuelang201201', 'xuelang201201@gmail.com', 'tokyo')
+    charlie.describe_user()
+    charlie.greet_user()
