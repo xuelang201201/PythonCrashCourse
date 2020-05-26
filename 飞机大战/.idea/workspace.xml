@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4c8d4c-a1db-4893-bfc8-3e9ec3bb1655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_10_事件监听.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_监听退出事件.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +43,7 @@
       <recent name="$PROJECT_DIR$/venv/lib/python3.8/site-packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python._10_事件监听">
-    <configuration name="_06_update方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="飞机大战" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_06_update方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python._11_监听退出事件">
     <configuration name="_07_认识游戏循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="飞机大战" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_11_监听退出事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_11_监听退出事件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._11_监听退出事件" />
         <item itemvalue="Python._10_事件监听" />
         <item itemvalue="Python._09_英雄循环飞行" />
         <item itemvalue="Python._08_更新英雄位置" />
         <item itemvalue="Python._07_认识游戏循环" />
-        <item itemvalue="Python._06_update方法" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590519620347</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="事件监听">
+      <created>1590520012082</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590520012082</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,7 +270,8 @@
     <MESSAGE value="使用clock.tick(60)方法设置刷新频率为60帧" />
     <MESSAGE value="更新英雄的位置" />
     <MESSAGE value="英雄循环飞行" />
-    <option name="LAST_COMMIT_MESSAGE" value="英雄循环飞行" />
+    <MESSAGE value="事件监听" />
+    <option name="LAST_COMMIT_MESSAGE" value="事件监听" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590519620069">
