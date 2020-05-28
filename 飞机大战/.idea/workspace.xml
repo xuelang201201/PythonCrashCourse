@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d4c8d4c-a1db-4893-bfc8-3e9ec3bb1655" name="Default Changelist" comment="" />
+    <list default="true" id="0d4c8d4c-a1db-4893-bfc8-3e9ec3bb1655" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane_main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -329,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590677837492</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="连续发射三颗子弹">
+      <created>1590678590180</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590678590180</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -367,33 +376,34 @@
     <MESSAGE value="准备发射子弹" />
     <MESSAGE value="定义子弹类" />
     <MESSAGE value="发射子弹" />
-    <option name="LAST_COMMIT_MESSAGE" value="发射子弹" />
+    <MESSAGE value="连续发射三颗子弹" />
+    <option name="LAST_COMMIT_MESSAGE" value="连续发射三颗子弹" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590677837103">
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590678589956">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590677837103" />
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590678589956" />
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog" timestamp="1590670163446">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590670163446" />
-    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590678431396">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590678757144">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590678431396" />
-    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590678431396">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590678757144" />
+    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590678757143">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590678431396" />
-    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590678431396">
+    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590678757143" />
+    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590678757143">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590678431396" />
-    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590678431396">
+    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590678757143" />
+    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590678757143">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590678431396" />
+    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590678757143" />
     <state x="403" y="45" width="1271" height="912" key="SettingsEditor" timestamp="1590514322990">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
