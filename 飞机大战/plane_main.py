@@ -18,6 +18,7 @@ class PlaneGame(object):
 
         # 4.设置定时器事件 - 创建敌机  1s
         pygame.time.set_timer(CREATE_ENEMY_EVENT, 1000)
+        pygame.time.set_timer(HERO_FIRE_EVENT, 500)
 
     def __create_sprites(self):
 
@@ -63,6 +64,8 @@ class PlaneGame(object):
 
                 # 将敌机添加到敌机精灵组
                 self.enemy_group.add(enemy)
+            elif event.type == HERO_FIRE_EVENT:
+                self.hero.fire()
             # elif event.type == pygame.KEYDOWN and event.key == pygame.K_RIGHT:
             #     print("向右移动...")
 
