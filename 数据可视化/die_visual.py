@@ -29,7 +29,7 @@ hist = pygal.Bar()
 # hist.title = "Results of rolling one D6 1000 times."
 hist.title = "Results of rolling two D6 dice 1000 times."
 # hist.x_labels = ['1', '2', '3', '4', '5', '6']
-hist.x_labels = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+hist.x_labels = ['2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
 hist.x_title = "Result"
 hist.y_title = "Frequency of Result"
 
