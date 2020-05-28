@@ -343,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590679074494</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="子弹摧毁敌机和敌机摧毁英雄">
+      <created>1590679205772</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1590679205772</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -386,30 +393,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="子弹摧毁敌机和敌机摧毁英雄" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590679074146">
+    <state x="221" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590679205603">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="221" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590679074146" />
+    <state x="221" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590679205603" />
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog" timestamp="1590670163446">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590670163446" />
-    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590678983233">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590679374861">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590678983233" />
-    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590678983233">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590679374861" />
+    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590679374861">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590678983233" />
-    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590678983233">
+    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590679374861" />
+    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590679374861">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590678983233" />
-    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590678983233">
+    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590679374861" />
+    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590679374861">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590678983233" />
+    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590679374861" />
     <state x="403" y="45" width="1271" height="912" key="SettingsEditor" timestamp="1590514322990">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
