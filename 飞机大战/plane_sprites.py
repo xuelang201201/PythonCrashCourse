@@ -92,3 +92,8 @@ class Hero(GameSprite):
         # 2.设置英雄的初始位置
         self.rect.centerx = SCREEN_RECT.centerx
         self.rect.bottom = SCREEN_RECT.bottom - 120
+
+    def update(self):
+
+        # 英雄在水平方向移动
+        self.rect.x += self.speed

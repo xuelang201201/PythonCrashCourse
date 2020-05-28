@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4c8d4c-a1db-4893-bfc8-3e9ec3bb1655" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plane_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plane_sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/plane_sprites.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590670589551</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="使用键盘提供的方法获取键盘按键">
+      <created>1590672534315</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590672534315</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -321,33 +330,34 @@
     <MESSAGE value="飞机大战完整代码" />
     <MESSAGE value="判断是否飞出屏幕，如果是，需要从精灵组删除敌机" />
     <MESSAGE value="绘制英雄" />
-    <option name="LAST_COMMIT_MESSAGE" value="绘制英雄" />
+    <MESSAGE value="使用键盘提供的方法获取键盘按键" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用键盘提供的方法获取键盘按键" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590670589376">
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590672534153">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590670589376" />
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590672534153" />
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog" timestamp="1590670163446">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1060" y="127" width="760" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590670163446" />
-    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590672275562">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590672906629">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590672275562" />
-    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590672275561">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590672906629" />
+    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590672906628">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590672275561" />
-    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590672275561">
+    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590672906628" />
+    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590672906627">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590672275561" />
-    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590672275562">
+    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590672906627" />
+    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590672906629">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590672275562" />
+    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590672906629" />
     <state x="403" y="45" width="1271" height="912" key="SettingsEditor" timestamp="1590514322990">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
