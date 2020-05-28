@@ -8,21 +8,14 @@ from die import Die
 die_1 = Die(8)
 die_2 = Die(8)
 
-results = []
-for roll_num in range(20000000):
-    result = die_1.roll() + die_2.roll()
-    results.append(result)
+results = [die_1.roll() + die_2.roll() for roll_num in range(1000000)]
 
-
-frequencies = []
 max_result = die_1.num_sides + die_2.num_sides
-for value in range(2, max_result+1):
-    frequency = results.count(value)
-    frequencies.append(frequency)
+frequencies = [results.count(value) for value in range(2, max_result + 1)]
 
 hist = pygal.Bar()
 
-hist.title = "Results of rolling two D8 dice 20,000,000 times."
+hist.title = "Results of rolling two D8 dice 1,000,000 times."
 hist.x_labels = [str(x) for x in range(2, max_result + 1)]
 hist.x_title = "Result"
 hist.y_title = "Frequency of Result"
