@@ -6,3 +6,7 @@ with open(filename) as f:
     reader = csv.reader(f)
     header_row = next(reader)
     print(header_row)
+
+    # 打印文件头及其位置
+    for index, column_header in enumerate(header_row):
+        print(index, column_header)
