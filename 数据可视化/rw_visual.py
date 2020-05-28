@@ -15,6 +15,11 @@ while True:
     # 给点着色
     point_number = list(range(rw.num_points))
     plt.scatter(rw.x_values, rw.y_values, c=point_number, cmap=plt.cm.Blues, s=15)
+
+    # 突出起点和终点
+    plt.scatter(0, 0, c='green', s=100)
+    plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', s=100)
+
     plt.show()
 
     # 模拟多次随机漫步
