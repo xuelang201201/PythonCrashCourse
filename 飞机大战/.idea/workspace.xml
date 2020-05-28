@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4c8d4c-a1db-4893-bfc8-3e9ec3bb1655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/plane_sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_12_演练精灵.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,36 +36,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/venv/lib/python3.8/site-packages" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python._11_监听退出事件">
-    <configuration name="_07_认识游戏循环" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="飞机大战" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_07_认识游戏循环.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python._12_演练精灵">
     <configuration name="_08_更新英雄位置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="飞机大战" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,13 +129,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_12_演练精灵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_12_演练精灵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._12_演练精灵" />
         <item itemvalue="Python._11_监听退出事件" />
         <item itemvalue="Python._10_事件监听" />
         <item itemvalue="Python._09_英雄循环飞行" />
         <item itemvalue="Python._08_更新英雄位置" />
-        <item itemvalue="Python._07_认识游戏循环" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590520012082</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="plane_sprites">
+      <created>1590664968438</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590664968438</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,29 +279,30 @@
     <MESSAGE value="更新英雄的位置" />
     <MESSAGE value="英雄循环飞行" />
     <MESSAGE value="事件监听" />
-    <option name="LAST_COMMIT_MESSAGE" value="事件监听" />
+    <MESSAGE value="plane_sprites" />
+    <option name="LAST_COMMIT_MESSAGE" value="plane_sprites" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590519620069">
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2" timestamp="1590664968047">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590519620069" />
-    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590640240141">
+    <state x="540" y="27" width="1016" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1590664968047" />
+    <state width="929" height="259" key="GridCell.Tab.0.bottom" timestamp="1590665260122">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590640240141" />
-    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590640240140">
+    <state width="929" height="259" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590665260122" />
+    <state width="929" height="259" key="GridCell.Tab.0.center" timestamp="1590665260122">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590640240140" />
-    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590640240140">
+    <state width="929" height="259" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590665260122" />
+    <state width="929" height="259" key="GridCell.Tab.0.left" timestamp="1590665260121">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590640240140" />
-    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590640240141">
+    <state width="929" height="259" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590665260121" />
+    <state width="929" height="259" key="GridCell.Tab.0.right" timestamp="1590665260122">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590640240141" />
+    <state width="929" height="259" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590665260122" />
     <state x="403" y="45" width="1271" height="912" key="SettingsEditor" timestamp="1590514322990">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
