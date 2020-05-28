@@ -20,4 +20,6 @@ plt.tick_params(axis='both', which='major', labelsize=14)
 # 设置每个坐标轴的取值范围
 plt.axis([0, 1100, 0, 1100000])
 
+# 自动保存图标，必须写在 plt.show()之前
+plt.savefig('squares_plot.png', bbox_inches='tight')
 plt.show()
