@@ -55,6 +55,8 @@ plt.xlabel('', fontsize=16)
 fig.autofmt_xdate()  # 斜着打印日期
 plt.ylabel("Temperature (F)", fontsize=16)
 plt.tick_params(axis='both', which='major', labelsize=16)
+# 让x轴顶格
+plt.xlim(min(dates), max(dates))
 plt.ylim(10, 120)
 
 plt.show()
