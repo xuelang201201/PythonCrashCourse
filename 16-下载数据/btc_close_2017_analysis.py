@@ -3,7 +3,7 @@ import math
 import pygal
 from itertools import groupby
 
-# 将数据加载到一个列表中
+# 1.将数据加载到一个列表中
 filename = 'btc_close_2017.json'
 with open(filename) as f:
     btc_data = json.load(f)
@@ -16,7 +16,7 @@ for btc_dict in btc_data:
     close = int(float(btc_dict['close']))
     print("{} is month {} week {}, {}, the close price is {} RMB".format(date, month, week, weekday, close))
 
-# 绘制收盘折线图
+# 2.绘制收盘折线图
 # 创建 5 个列表，分别存储日期和收盘价
 dates = []
 months = []
@@ -39,7 +39,7 @@ line_chart.x_labels_major = dates[::N]
 line_chart.add('收盘价', close)
 line_chart.render_to_file('收盘价折线图（￥）.svg')
 
-# 时间序列特征初探
+# 3.时间序列特征初探
 line_chart = pygal.Line(x_label_rotation=20, show_minor_x_labels=False)
 line_chart.title = '收盘价对数变换（￥）'
 line_chart.x_labels = dates
@@ -50,7 +50,7 @@ line_chart.add('log收盘价', close_log)
 line_chart.render_to_file('收盘价对数变换折线图（￥）.svg')
 
 
-# 收盘价均值
+# 4.收盘价均值
 def draw_line(x_data, y_data, title, y_legend):
     xy_map = []
     for x, y in groupby(sorted(zip(x_data, y_data)), key=lambda _: _[0]):
@@ -78,6 +78,7 @@ line_chart_weekday = draw_line(weekdays_int, close[1:idx_week], '收盘价星期
 line_chart_weekday.x_labels = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
 line_chart_weekday.render_to_file('收盘价星期均值（￥）.svg')
 
+# 收盘价数据仪表盘
 with open('收盘价Dashboard.html', 'w', encoding='utf8') as html_file:
     html_file.write('<html><head><title>收盘价Dashboard</title><meta charset="utf-8"></head><body>\n')
     for svg in [
