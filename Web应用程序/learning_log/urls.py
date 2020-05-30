@@ -19,5 +19,6 @@ from django.conf.urls import include, url
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^users/', include(('users.urls', 'users'), namespace='users')),  # 这行代码与任何以单词users开头的URL都匹配
     url(r'', include(('learning_logs.urls', 'learning_logs'), namespace='learning_logs')),
 ]
