@@ -25,7 +25,7 @@ SECRET_KEY = '6y1u83a4bt=cr4*cnzz432##h&5n3n-zslh2*g)-7$$bd*u5(1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
@@ -61,7 +61,7 @@ ROOT_URLCONF = 'learning_log.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'learning_log/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -147,8 +147,12 @@ if cwd == '/app' or cwd[:4] == '/tmp':
     # 让request.is_secure()承认X-Forwarded-Proto头
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-    # 支持所有的主机头（host header）
-    ALLOWED_HOSTS = ['*']
+    # # 支持所有的主机头（host header）
+    # ALLOWED_HOSTS = ['*']
+    # 只允许Heroku托管这个项目
+    ALLOWED_HOSTS = ['charliewei.herokuapp.com']
+
+    DEBUG = False  # 让Django不在错误发生时显示敏感信息
 
     # 静态资产配置
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
