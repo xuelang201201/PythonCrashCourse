@@ -94,7 +94,7 @@ You are trying to add a non-nullable field 'owner' to topic without a default; w
 Please select a fix:
  1) Provide a one-off default now (will be set on all existing rows with a null value for this column)
  2) Quit, and let me add a default in models.py
-Select an option: 1
+Select an option: 1  # 选择迁移到的对象
 Please enter the default value now, as valid Python
 The datetime and django.utils.timezone modules are available, so you can do e.g. timezone.now
 Type 'exit' to exit this prompt
@@ -102,5 +102,25 @@ Type 'exit' to exit this prompt
 Migrations for 'learning_logs':
   learning_logs/migrations/0003_topic_owner.py
     - Add field owner to topic
+
+# 执行迁移
+(venv)  ~/Python/Code/PythonCrashCourse/Web应用程序/ [master+*] python3 manage.py migrate                     
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, learning_logs, sessions
+Running migrations:
+  Applying learning_logs.0003_topic_owner... OK
+
+# 验证迁移是否符合预期
+(venv)  ~/Python/Code/PythonCrashCourse/Web应用程序/ [master+*] python3 manage.py shell  
+Python 3.8.2 (default, Apr 27 2020, 15:53:34) 
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> from learning_logs.models import Topic
+>>> for topic in Topic.objects.all():
+...     print(topic, topic.owner)
+... 
+Chess ll_admin
+Rock Climbing ll_admin
 
 ```
