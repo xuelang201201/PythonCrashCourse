@@ -123,4 +123,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# 我的设置
 LOGIN_REDIRECT_URL = '/'
+
+LOGIN_URL = '/users/login/'
