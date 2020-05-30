@@ -124,3 +124,8 @@ Chess ll_admin
 Rock Climbing ll_admin
 
 ```
+
+###创建包含包列表的文件 requirements.txt
+```
+pip3 freeze > requirements.txt
+```
