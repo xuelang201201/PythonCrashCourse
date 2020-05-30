@@ -86,3 +86,21 @@ jack 2
 tom 3
 jerry 4
 ```
+
+####9.迁移数据库
+```
+(venv)  ~/Python/Code/PythonCrashCourse/Web应用程序/ [master+*] python3 manage.py makemigrations learning_logs
+You are trying to add a non-nullable field 'owner' to topic without a default; we can't do that (the database needs something to populate existing rows).
+Please select a fix:
+ 1) Provide a one-off default now (will be set on all existing rows with a null value for this column)
+ 2) Quit, and let me add a default in models.py
+Select an option: 1
+Please enter the default value now, as valid Python
+The datetime and django.utils.timezone modules are available, so you can do e.g. timezone.now
+Type 'exit' to exit this prompt
+>>> 1
+Migrations for 'learning_logs':
+  learning_logs/migrations/0003_topic_owner.py
+    - Add field owner to topic
+
+```
