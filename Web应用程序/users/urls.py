@@ -8,4 +8,6 @@ from . import views
 urlpatterns = [
     # 登录页面
     url(r'^login/$', LoginView.as_view(template_name='users/login.html'), name='login'),
+    # 注销
+    url(r'^logout/$', views.logout_view, name='logout'),
 ]
