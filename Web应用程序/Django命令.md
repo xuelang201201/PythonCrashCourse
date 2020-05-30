@@ -67,3 +67,22 @@ datetime.datetime(2020, 5, 29, 1, 53, 40, 954355, tzinfo=<UTC>)
 <QuerySet [<Entry: The opening is the first part of the game, roughly...>, <Entry: In the opening phase of the game, it's important t...>]>
 
 ```
+
+####8.确定当前有哪些用户
+```
+(venv)  ~/Python/Code/PythonCrashCourse/Web应用程序/ [master+*] python3 manage.py shell
+Python 3.8.2 (default, Apr 27 2020, 15:53:34) 
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> from django.contrib.auth.models import User
+>>> User.objects.all()
+<QuerySet [<User: ll_admin>, <User: jack>, <User: tom>, <User: jerry>]>
+>>> for user in User.objects.all():
+...     print(user.username, user.id)
+... 
+ll_admin 1
+jack 2
+tom 3
+jerry 4
+```
